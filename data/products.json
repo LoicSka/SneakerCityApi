@@ -1,0 +1,110 @@
+[
+    {   
+        "id": "001",
+        "name": "Air Jordan 1",
+        "colorWay": "Guava Ice",
+        "permalink": "air-jordan-1-retro-guava-ice-sail",
+        "decription": "The latest Air Jordan I release amplifies Nike Air branding and features premium materials, a tonal Wings logo and a luxe Guava Ice shade.",
+        "price": "160",
+        "stock": [
+            {
+                "size": "M7/W8.5",
+                "count": "30"
+            },
+            {
+                "size": "M7.5/W9",
+                "count": "0"
+            },
+            {
+                "size": "M8/W9.5",
+                "count": "3"
+            },
+            {
+                "size": "M8.5/W10",
+                "count": "30"
+            },
+            {
+                "size": "M9/W10.5",
+                "count": "30"
+            },
+            {
+                "size": "M9.5/W11",
+                "count": "30"
+            }
+        ],
+        "imageUrls": ["https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/xyk2xxlwigmzl9sy8djj/air-jordan-1-retro-guava-ice-sail-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/jt4fo90aoc3hyxzd2gie/air-jordan-1-retro-guava-ice-sail-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/k04kewdeg4yu4gomers1/air-jordan-1-retro-guava-ice-sail-release-date.jpg"],
+        "releaseDate": "2018-08-29T10:52:27.562Z"
+    },
+    {   
+        "id": "002",
+        "name": "Air Jordan 1",
+        "colorWay": "Guava Ice",
+        "permalink": "air-jordan-1-retro-guava-ice-sail",
+        "decription": "The latest Air Jordan I release amplifies Nike Air branding and features premium materials, a tonal Wings logo and a luxe Guava Ice shade.",
+        "price": "160",
+        "stock": [
+            {
+                "size": "M7/W8.5",
+                "count": "30"
+            },
+            {
+                "size": "M7.5/W9",
+                "count": "0"
+            },
+            {
+                "size": "M8/W9.5",
+                "count": "3"
+            },
+            {
+                "size": "M8.5/W10",
+                "count": "30"
+            },
+            {
+                "size": "M9/W10.5",
+                "count": "30"
+            },
+            {
+                "size": "M9.5/W11",
+                "count": "30"
+            }
+        ],
+        "imageUrls": ["https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/xyk2xxlwigmzl9sy8djj/air-jordan-1-retro-guava-ice-sail-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/jt4fo90aoc3hyxzd2gie/air-jordan-1-retro-guava-ice-sail-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/k04kewdeg4yu4gomers1/air-jordan-1-retro-guava-ice-sail-release-date.jpg"],
+        "releaseDate": "2018-08-29T10:52:27.562Z"
+    },
+    {   
+        "id": "003",
+        "name": "Air Jordan 1",
+        "colorWay": "Guava Ice",
+        "permalink": "air-jordan-1-retro-guava-ice-sail",
+        "decription": "The latest Air Jordan I release amplifies Nike Air branding and features premium materials, a tonal Wings logo and a luxe Guava Ice shade.",
+        "price": "160",
+        "stock": [
+            {
+                "size": "M7/W8.5",
+                "count": "30"
+            },
+            {
+                "size": "M7.5/W9",
+                "count": "0"
+            },
+            {
+                "size": "M8/W9.5",
+                "count": "3"
+            },
+            {
+                "size": "M8.5/W10",
+                "count": "30"
+            },
+            {
+                "size": "M9/W10.5",
+                "count": "30"
+            },
+            {
+                "size": "M9.5/W11",
+                "count": "30"
+            }
+        ],
+        "imageUrls": ["https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/xyk2xxlwigmzl9sy8djj/air-jordan-1-retro-guava-ice-sail-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/jt4fo90aoc3hyxzd2gie/air-jordan-1-retro-guava-ice-sail-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/k04kewdeg4yu4gomers1/air-jordan-1-retro-guava-ice-sail-release-date.jpg"],
+        "releaseDate": "2018-08-29T10:52:27.562Z"
+    }
+]
