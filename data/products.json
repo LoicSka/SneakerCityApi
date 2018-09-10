@@ -37,6 +37,114 @@
     },
     {   
         "id": "002",
+        "name": "Air Jordan XII",
+        "colorWay": "International Flight",
+        "permalink": "air-jordan-12-international-flight-college-navy",
+        "decription": "On September 12, 1996, MJ travelled to Tokyo with some of the league's best for the Hoop Heroes basketball clinic. In front of 32,000 fans, he showed off his skills in a series of 1-on-1s, challenged one of his teammates to a game of H-O-R-S-E, and took part in a friendly exhibition game against some of Japan's famous sumo wrestlers. The latest Air Jordan XII celebrates the event with a print inspired by the kimonos the wrestlers wore during the game.",
+        "price": "200",
+        "stock": [
+            {
+                "size": "M7/W8.5",
+                "count": "30"
+            },
+            {
+                "size": "M7.5/W9",
+                "count": "0"
+            },
+            {
+                "size": "M8/W9.5",
+                "count": "3"
+            },
+            {
+                "size": "M8.5/W10",
+                "count": "30"
+            },
+            {
+                "size": "M9/W10.5",
+                "count": "30"
+            },
+            {
+                "size": "M9.5/W11",
+                "count": "30"
+            }
+        ],
+        "imageUrls": ["https://c.static-nike.com/a/images/w_960,c_limit,f_auto/wf0y6iwtwls744emftrc/international-flight.jpg", "https://c.static-nike.com/a/images/w_1920,c_limit,f_auto/svtnhqkhmdr44odzhiqv/air-jordan-12-international-flight-college-navy-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/btzpz9n6e4sk0pyoiclq/air-jordan-12-international-flight-college-navy-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/yqacqvqcjhqpbgnguaye/air-jordan-12-international-flight-college-navy-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ed1oogaqkldwwsmoi630/air-jordan-12-international-flight-college-navy-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/rl8foaktm0x9n9kbcank/air-jordan-12-international-flight-college-navy-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_sc/w_960,c_limit,f_auto/mtylisuqf7ixxlvais8x/air-jordan-12-international-flight-college-navy-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ilgpczryd5jlc6rwiyzc/air-jordan-12-international-flight-college-navy-release-date.jpg", "https://c.static-nike.com/a/images/w_1920,c_limit,f_auto/mtcecnyo3a6bj7evim3k/air-jordan-12-international-flight-college-navy-release-date.jpg", "https://c.static-nike.com/a/images/w_1920,c_limit,f_auto/gx0qbaabijab94avzuyh/air-jordan-12-international-flight-college-navy-release-date.jpg", "https://c.static-nike.com/a/images/w_1920,c_limit,f_auto/vtrb2jfvwblkpbem1bce/air-jordan-12-international-flight-college-navy-release-date.jpg"],
+        "releaseDate": "2018-08-29T10:52:27.562Z"
+    },
+    {   
+        "id": "003",
+        "name": "Air Jordan Xiii",
+        "colorWay": "BLACK/RED-UNIVERSITY",
+        "permalink": "air-jordan-13-retro-black-university-red-university-gold",
+        "decription": "Carmelo Anthony’s greatness was first showcased at one of the best high school basketball programs in the country. It was there he developed his deadly offensive game and drew the attention of the league. With a “Class of 2012” sockliner and his alma mater’s team colors, the latest Air Jordan XIII celebrates the waves ‘Melo made even before he donned his cap and gown.",
+        "price": "190",
+        "stock": [
+            {
+                "size": "M7/W8.5",
+                "count": "30"
+            },
+            {
+                "size": "M7.5/W9",
+                "count": "0"
+            },
+            {
+                "size": "M8/W9.5",
+                "count": "3"
+            },
+            {
+                "size": "M8.5/W10",
+                "count": "30"
+            },
+            {
+                "size": "M9/W10.5",
+                "count": "30"
+            },
+            {
+                "size": "M9.5/W11",
+                "count": "30"
+            }
+        ],
+        "imageUrls": ["https://c.static-nike.com/a/images/w_960,c_limit,f_auto/jscoia6zcogoynl9jx1e/blackred-university-gold.jpg", "https://c.static-nike.com/a/images/w_1920,c_limit,f_auto/uxq3ixcgrd0bkxwrnck2/air-jordan-13-black-university-red-university-gold-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/htpvm0ijrhkeyxtxbfrm/air-jordan-13-black-university-red-university-gold-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/dvnwhwtu2dlpvopltxtx/air-jordan-13-black-university-red-university-gold-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/dkw5wpwl8012vhqoyczo/air-jordan-13-black-university-red-university-gold-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/tapi17a0omkoaypsgfw9/air-jordan-13-black-university-red-university-gold-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_sc/w_960,c_limit,f_auto/ht3hc8z0knmpjg9g24bc/air-jordan-13-black-university-red-university-gold-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/c8lcakzuxia5tqpfo9e3/air-jordan-13-black-university-red-university-gold-release-date.jpg", "https://c.static-nike.com/a/images/w_1920,c_limit,f_auto/wspivziqsiwbh1z1vbab/air-jordan-13-black-university-red-university-gold-release-date.jpg", "https://c.static-nike.com/a/images/w_1920,c_limit,f_auto/w6fb7komwm0dzftj31aj/air-jordan-13-black-university-red-university-gold-release-date.jpg"],
+        "releaseDate": "2018-08-29T10:52:27.562Z"
+    },
+    {   
+        "id": "004",
+        "name": "Wmns air jordan iii",
+        "colorWay": "Awok",
+        "permalink": "womens-air-jordan-3-awok-university-red-sail-black",
+        "decription": "Every design concept that hits Vogue editor-in-chief Anna Wintour’s desk emerges with one of two marks: “see me” or “AWOK.” The latter, standing for “Anna Wintour okay,” is one of the ultimate signoffs in the world of fashion, and this special edition of the Air Jordan III is the latest to earn it. Inspired by Anna’s iconic suits and sunglasses, the shoe arrives in an all-new tweed build, with an “Edited by Vogue” keychain.",
+        "price": "220",
+        "stock": [
+            {
+                "size": "M7/W8.5",
+                "count": "30"
+            },
+            {
+                "size": "M7.5/W9",
+                "count": "0"
+            },
+            {
+                "size": "M8/W9.5",
+                "count": "3"
+            },
+            {
+                "size": "M8.5/W10",
+                "count": "30"
+            },
+            {
+                "size": "M9/W10.5",
+                "count": "30"
+            },
+            {
+                "size": "M9.5/W11",
+                "count": "30"
+            }
+        ],
+        "imageUrls": ["https://c.static-nike.com/a/images/w_960,c_limit,f_auto/yplqhomtb20h2wm0afgf/awok.jpg", "https://c.static-nike.com/a/images/w_1920,c_limit,f_auto/zrsxdhueeotzn9aoutje/womens-air-jordan-3-awok-university-red-sail-black-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/bdagccakvi1zc9ibjrb5/womens-air-jordan-3-awok-university-red-sail-black-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/pox4hsjn437vc5t7alt1/womens-air-jordan-3-awok-university-red-sail-black-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/wbxgfu6ldznejnqyb1ow/womens-air-jordan-3-awok-university-red-sail-black-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_sc/w_960,c_limit,f_auto/x5zcowpzfdbcdzo6d3sn/womens-air-jordan-3-awok-university-red-sail-black-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_sc/w_960,c_limit,f_auto/x5zcowpzfdbcdzo6d3sn/womens-air-jordan-3-awok-university-red-sail-black-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/qual5uchp3suwjbxyxwf/womens-air-jordan-3-awok-university-red-sail-black-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/ja57hscjjxolm74mbnrg/womens-air-jordan-3-awok-university-red-sail-black-release-date.jpg", "https://c.static-nike.com/a/images/w_1920,c_limit,f_auto/u7kxkcqmiikp40mofnjb/womens-air-jordan-3-awok-university-red-sail-black-release-date.jpg", "https://c.static-nike.com/a/images/w_1920,c_limit,f_auto/wokkjo7ljp9cwigqabvr/womens-air-jordan-3-awok-university-red-sail-black-release-date.jpg"],
+        "releaseDate": "2018-08-29T10:52:27.562Z"
+    },
+    {   
+        "id": "005",
         "name": "Air Jordan 1",
         "colorWay": "Guava Ice",
         "permalink": "air-jordan-1-retro-guava-ice-sail",
@@ -72,7 +180,79 @@
         "releaseDate": "2018-08-29T10:52:27.562Z"
     },
     {   
-        "id": "003",
+        "id": "006",
+        "name": "Air Jordan 1",
+        "colorWay": "Guava Ice",
+        "permalink": "air-jordan-1-retro-guava-ice-sail",
+        "decription": "The latest Air Jordan I release amplifies Nike Air branding and features premium materials, a tonal Wings logo and a luxe Guava Ice shade.",
+        "price": "160",
+        "stock": [
+            {
+                "size": "M7/W8.5",
+                "count": "30"
+            },
+            {
+                "size": "M7.5/W9",
+                "count": "0"
+            },
+            {
+                "size": "M8/W9.5",
+                "count": "3"
+            },
+            {
+                "size": "M8.5/W10",
+                "count": "30"
+            },
+            {
+                "size": "M9/W10.5",
+                "count": "30"
+            },
+            {
+                "size": "M9.5/W11",
+                "count": "30"
+            }
+        ],
+        "imageUrls": ["https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/xyk2xxlwigmzl9sy8djj/air-jordan-1-retro-guava-ice-sail-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/jt4fo90aoc3hyxzd2gie/air-jordan-1-retro-guava-ice-sail-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/k04kewdeg4yu4gomers1/air-jordan-1-retro-guava-ice-sail-release-date.jpg"],
+        "releaseDate": "2018-08-29T10:52:27.562Z"
+    },
+    {   
+        "id": "007",
+        "name": "Air Jordan 1",
+        "colorWay": "Guava Ice",
+        "permalink": "air-jordan-1-retro-guava-ice-sail",
+        "decription": "The latest Air Jordan I release amplifies Nike Air branding and features premium materials, a tonal Wings logo and a luxe Guava Ice shade.",
+        "price": "160",
+        "stock": [
+            {
+                "size": "M7/W8.5",
+                "count": "30"
+            },
+            {
+                "size": "M7.5/W9",
+                "count": "0"
+            },
+            {
+                "size": "M8/W9.5",
+                "count": "3"
+            },
+            {
+                "size": "M8.5/W10",
+                "count": "30"
+            },
+            {
+                "size": "M9/W10.5",
+                "count": "30"
+            },
+            {
+                "size": "M9.5/W11",
+                "count": "30"
+            }
+        ],
+        "imageUrls": ["https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/xyk2xxlwigmzl9sy8djj/air-jordan-1-retro-guava-ice-sail-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/jt4fo90aoc3hyxzd2gie/air-jordan-1-retro-guava-ice-sail-release-date.jpg", "https://c.static-nike.com/a/images/t_prod_ss/w_960,c_limit,f_auto/k04kewdeg4yu4gomers1/air-jordan-1-retro-guava-ice-sail-release-date.jpg"],
+        "releaseDate": "2018-08-29T10:52:27.562Z"
+    },
+    {   
+        "id": "009",
         "name": "Air Jordan 1",
         "colorWay": "Guava Ice",
         "permalink": "air-jordan-1-retro-guava-ice-sail",

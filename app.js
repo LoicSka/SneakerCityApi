@@ -1,5 +1,3 @@
-'use strict';
-
 import express from 'express';
 import morgan from 'morgan';
 import bodyParser  from 'body-parser';
@@ -7,7 +5,6 @@ import bodyParser  from 'body-parser';
 import productRoutes from './api/routes/products';
 
 const app = express();
-
 
 app.use(morgan("dev"));
 app.use(bodyParser.urlencoded({ extended: false }));

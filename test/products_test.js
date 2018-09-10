@@ -1,5 +1,3 @@
-'use strict';
-
 import chai from 'chai';
 import chaiHttp from 'chai-http';
 
@@ -11,7 +9,7 @@ let should = chai.should();
 chai.use(chaiHttp);
 
 describe('/products GET', () => {
-    it('returns array containing all products', (done) => {
+    it('returns array containing products', (done) => {
         chai
         .request(server)
         .get('/products')

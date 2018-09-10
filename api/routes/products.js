@@ -1,5 +1,3 @@
-'use strict';
-
 import { Router } from 'express';
 
 import * as Product from '../models/products';
@@ -7,11 +5,12 @@ import * as Product from '../models/products';
 const router = Router();
 
 router.get('/', (req, res) => {
-    const products = req.query.sorted == true ? Product.sorted(Number(req.query.limit)) : Product.all(Number(req.query.limit));
+    const { sorted = false, pageNumber = null, pageSize = 10, limit = 10 } = req.query;
+    const products = sorted == true ? Product.sorted(Number(limit)) : Product.all(Number(limit));
     res
     .status(200)
     .json({
-        'result': Product.all(),
+        'result': pageNumber ? Product.paginate(pageSize, Number(pageNumber)) : products,
         'status': '22000',
         'message': 'Success'
     });
