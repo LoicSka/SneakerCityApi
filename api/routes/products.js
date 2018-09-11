@@ -6,11 +6,11 @@ const router = Router();
 
 router.get('/', (req, res) => {
     const { sorted = false, pageNumber = null, pageSize = 10, limit = 10 } = req.query;
-    const products = sorted == true ? Product.sorted(Number(limit)) : Product.all(Number(limit));
+    console.log(sorted);
     res
     .status(200)
     .json({
-        'result': pageNumber ? Product.paginate(pageSize, Number(pageNumber)) : products,
+        'result': sorted == 'true' ? Product.sorted(Number(limit)) : Product.paginate(pageSize, Number(pageNumber)),
         'status': '22000',
         'message': 'Success'
     });
